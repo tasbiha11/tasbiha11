@@ -10,7 +10,7 @@
 
 
 
-- 💬 Ask me about **React, JavaScript, HTML5, CSS3, Bootstrap, Tailwind CSS**
+- 💬 Ask me about **JavaScript, React, HTML5, CSS3, Bootstrap, Tailwind CSS, Node.js, MongoDB**
 
 - 📫 How to reach me **tasbihahussain@yahoo.com**
 
