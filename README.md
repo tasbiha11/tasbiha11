@@ -1,7 +1,7 @@
 
 ### Hi there 👋, I'm Tasbiha, a Frontend Developer from Bangladesh
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tasbiha11&show_icons=true&theme=synthwave)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tasbiha11)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tasbiha11&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
