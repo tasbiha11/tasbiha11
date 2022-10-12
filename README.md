@@ -1,5 +1,5 @@
 
-### Hi there 👋, I'm Tasbiha, a Frontend Developer from Bangladesh
+### Hi there 👋, I'm Tasbiha, a Full Stack Developer from Bangladesh
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tasbiha11&show_icons=true&theme=synthwave)
 
