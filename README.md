@@ -11,7 +11,7 @@
 
 </p>
 
-- 🔭 I'm currently working on **Laravel Framework**
+- 🔭 I'm currently working on **MERN Stack**
 
 - 💬 Ask me about **JavaScript, React, HTML5, CSS3, Bootstrap, Tailwind CSS, Node.js, MongoDB**
 
