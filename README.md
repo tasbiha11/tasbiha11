@@ -13,7 +13,7 @@
 
 - 🔭 I'm currently working on **MERN Stack**
 
-- 💬 Ask me about **JavaScript, React, HTML5, CSS3, Bootstrap, Tailwind CSS, Node.js, MongoDB**
+- 💬 Ask me about **JavaScript, React, HTML5, CSS3, Bootstrap, Tailwind CSS, Firebase, Express,Node.js, MongoDB**
 
 - 📫 How to reach me **tasbihahussain@yahoo.com**
 
