@@ -1,9 +1,7 @@
 
 ### Hi there 👋, I'm Tasbiha, a Full Stack Developer from Bangladesh
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tasbiha11&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tasbiha11&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
