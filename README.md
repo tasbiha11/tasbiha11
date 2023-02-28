@@ -1,13 +1,6 @@
 
 ### Hi there 👋, I'm Tasbiha, a Full Stack Developer from Bangladesh
 
-![Anurag's GitHub stats](https://seok/api?username=tasbiha11&show_icons=true&theme=radical)
-
-
-
-![Top Langs](https://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/api/top-langs/?username=tasbiha11&show_icons=true&theme=tokyonight)
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
