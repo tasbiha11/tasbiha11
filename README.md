@@ -17,4 +17,3 @@
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasbiha11&layout=compact&theme=cobalt&hide_border=true" />
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tasbiha11&show_icons=true&locale=en" alt="tasbiha11" /></p>
