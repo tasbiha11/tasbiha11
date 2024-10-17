@@ -4,7 +4,7 @@ I have a deep interest in solving real-world problems using **Machine Learning**
 
 ## 🔍 About Me
 
-- 🎓 I have a background in **Computer Science** and specialize in **Machine Learning** and **Deep Learning**.
+- 🎓 I have a background in **Computer Science and Engineering** and specialize in **Machine Learning** and **Deep Learning**.
 - 🌱 I’m always learning new techniques in **Natural Language Processing (NLP)**, **Computer Vision**, and **Time Series Analysis**.
 - 🎯 My goal is to become a **Machine Learning Engineer** or **Researcher**, contributing to impactful AI projects and research.
 
