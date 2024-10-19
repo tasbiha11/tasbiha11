@@ -1,4 +1,4 @@
-# Hi, I'm Tasbiha! 👋
+# I'm Tasbiha!
 
 I have a deep interest in solving real-world problems using **Machine Learning** and **Deep Learning**. I enjoy building models, exploring data, and creating projects that push the boundaries of what AI can do.
 
