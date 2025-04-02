@@ -1,9 +1,9 @@
-I have a deep interest in solving real-world problems using **Machine Learning** and **Deep Learning**. I enjoy building models, exploring data, and creating projects that push the boundaries of what AI can do.
+I have a deep interest in solving real-world problems using **Machine Learning** and **Human-Robot interaction, AI in Cognitive tasks, or Embodied Cognition.**. I enjoy building models, exploring data, and creating projects that push the boundaries of what AI can do.  
 
 ## 🔍 About Me
 
-- 🎓 I have a background in **Computer Science and Engineering** and specialize in **Machine Learning** and **Deep Learning**.
-- 🌱 I’m always learning new techniques in **Natural Language Processing (NLP)**, **Computer Vision**, and **Time Series Analysis**.
+- 🎓 I have a background in **Computer Science and Engineering**.
+- 🌱 I’m always learning new techniques in **Human-Computer Interaction (HCI))**, **Computer Vision**, and **Natural Language Processing**.
 - 🎯 My goal is to become a **Machine Learning Engineer** or **Researcher**, contributing to impactful AI projects and research.
 
 ## 🛠️ Skills
