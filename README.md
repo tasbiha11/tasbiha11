@@ -1,4 +1,4 @@
-I have a deep interest in solving real-world problems using **Machine Learning** and **Human-Robot interaction, AI in Cognitive tasks, or Embodied Cognition.**. I enjoy building models, exploring data, and creating projects that push the boundaries of what AI can do.  
+I have a deep interest in solving real-world problems using **Machine Learning** and **Human-Robot interaction, AI in Cognitive tasks**. I enjoy building models, exploring data, and creating projects that push the boundaries of what AI can do.  
 
 ## 🔍 About Me
 
