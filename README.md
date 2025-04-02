@@ -3,7 +3,7 @@ I have a deep interest in solving real-world problems using **Machine Learning**
 ## 🔍 About Me
 
 - 🎓 I have a background in **Computer Science and Engineering**.
-- 🌱 I’m always learning new techniques in **Human-Computer Interaction (HCI))**, **Computer Vision**, and **Natural Language Processing**.
+- 🌱 I’m always learning new techniques in **Human-Computer Interaction (HCI)**, **Computer Vision**, and **Natural Language Processing**.
 - 🎯 My goal is to become a **Machine Learning Engineer** or **Researcher**, contributing to impactful AI projects and research.
 
 ## 🛠️ Skills
